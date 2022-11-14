@@ -1,0 +1,13 @@
+https://raw.githubusercontent.com/MadeOfMagicAndWires/qBit-plugins/master/engines/bakabt.py
+https://raw.githubusercontent.com/Ooggle/qbittorrent-search-plugins/master/engines/gazellegames.py
+https://raw.githubusercontent.com/txtsd/qB-IPT/master/iptorrents.py
+https://raw.githubusercontent.com/imDMG/qBt_SE/master/engines/kinozal.py
+https://raw.githubusercontent.com/bugsbringer/qbit-plugins/master/lostfilm.py
+https://raw.githubusercontent.com/darktohka/qbittorrent-plugins/master/ncore.py
+https://raw.githubusercontent.com/imDMG/qBt_SE/master/engines/nnmclub.py
+https://raw.githubusercontent.com/TainakaDrums/qbPornolab/master/pornolab.py
+https://raw.githubusercontent.com/evyd13/search-plugins/master/nova3/engines/redacted_ch.py
+https://raw.githubusercontent.com/imDMG/qBt_SE/master/engines/rutracker.py
+https://raw.githubusercontent.com/nbusseneau/qBittorrent-rutracker-plugin/master/rutracker.py
+https://raw.githubusercontent.com/swannie-eire/prowlarr-qbittorrent-plugins/main/prowlarr.py
+https://raw.githubusercontent.com/CravateRouge/qBittorrentSearchPlugins/master/yggtorrent.py
